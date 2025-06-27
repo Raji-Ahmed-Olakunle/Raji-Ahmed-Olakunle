@@ -35,7 +35,7 @@ I specialize in building beautiful, performant, and scalable cross-platform mobi
 ### 📫 Connect with me
 - 🌍 [Portfolio](https://yourportfolio.com)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📸 [Instagram](https://www.instagram.com/yourusername)
+- 📸 [Instagram]([https://www.instagram.com/yourusername](https://www.instagram.com/raji_ahmed_olakunle?igsh=MWxoMzVhNzRha3IxdA==))
 - 📧 rajia0571@example.com
 
 ---
