@@ -34,7 +34,7 @@ I specialize in building beautiful, performant, and scalable cross-platform mobi
 
 ### 📫 Connect with me
 - 🌍 [Portfolio](https://yourportfolio.com)
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile(https://www.linkedin.com/in/ahmed-raji4b0249302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ])
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile(https://www.linkedin.com/in/ahmed-raji4b0249302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 - 📸 [Instagram](https://www.instagram.com/raji_ahmed_olakunle?igsh=MWxoMzVhNzRha3IxdA==)
 - 📧 rajia0571@example.com
 
